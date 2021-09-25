@@ -47,7 +47,6 @@ export const Page = (props) => {
         <Grid container spacing={4}>
           {props.children}
         </Grid>
-        >
       </main>
       <footer></footer>
     </div>
